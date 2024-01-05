@@ -1,1 +1,3 @@
 # Machine-Learning-Modeling-Pipelines-in-Production
+
+Machine Learning Engine for Production in MLOps specialization. This is about building and maintaining models for different serving environments. The repository tightly integrate with the data pipelines you built for production. This focuses on implementing tools and techniques to effectively manage modeling resources and best serve batch and real-time inference requests. Using TFX library and rely on tools like AutoML for finding the best suitable model and TensorFlow model analysis to address model fairness, explainability issues, and mitigate bottlenecks. Also, exploring pipelining and parallelism and high-performance ingestion to make the most of computational resources. 
